@@ -11,7 +11,7 @@ const INITIAL_BOT_MESSAGE = "Hello! I'm RenewBot. How can I help you learn about
 const presetQuestions = [
   "What is solar energy?",
   "How can I save energy at home?",
-  "Tell me about wind power.",
+  "Tell me about wind power.", 
   "What are some sustainable practices?",
 ];
 
